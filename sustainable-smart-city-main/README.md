@@ -15,10 +15,9 @@ _______
 
 > "Our team includes:
 >
-> * **Kotnani Naga Hutesh** – Frontend development and UI
-> * **Katta Sai Sri Venkata Trinadha Ganesh** – Backend APIs and database
-> * **Kasani Vinayak Goud** – AI integration and project coordination
-> * **Kandula Lakshmi** – Testing, deployment, and documentation"
+> * **Kanduri Phaneendra** – Frontend development and UI
+> * **vara prasad** – Backend APIs and database
+> * **Mala Ram charan** – AI integration and project coordination
 
 ---
 
